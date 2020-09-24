@@ -1,0 +1,48 @@
+[Sat Sep 19 22:18:22 2020] INFO: Opened log file Urho3D.log
+[Sat Sep 19 22:18:22 2020] INFO: Created 1 worker thread
+[Sat Sep 19 22:18:22 2020] INFO: Added resource path /Volumes/MyTestVolume/Projects/vFOSSGame/CppTest/bin/Data/
+[Sat Sep 19 22:18:22 2020] INFO: Added resource path /Volumes/MyTestVolume/Projects/vFOSSGame/CppTest/bin/CoreData/
+[Sat Sep 19 22:18:22 2020] INFO: Added resource path /Volumes/MyTestVolume/Projects/vFOSSGame/CppTest/bin/Autoload/LargeData/
+[Sat Sep 19 22:18:23 2020] INFO: Adapter used Intel Inc. Intel HD Graphics 3000 OpenGL Engine
+[Sat Sep 19 22:18:23 2020] INFO: Set screen mode 1280x800 rate 60 Hz fullscreen monitor 0
+[Sat Sep 19 22:18:23 2020] INFO: Initialized input
+[Sat Sep 19 22:18:23 2020] INFO: Initialized user interface
+[Sat Sep 19 22:18:23 2020] INFO: Initialized renderer
+[Sat Sep 19 22:18:23 2020] INFO: Set audio mode 44100 Hz stereo interpolated
+[Sat Sep 19 22:18:23 2020] INFO: Initialized engine
+[Sat Sep 19 22:18:26 2020] INFO: Keys: tab = toggle mouse, AWSD = move camera, Shift = fast mode, Esc = quit.
+35 frames in 1.042 seconds = 33.589 fps
+[Sat Sep 19 22:18:27 2020] INFO: Keys: tab = toggle mouse, AWSD = move camera, Shift = fast mode, Esc = quit.
+31 frames in 1.0279 seconds = 30.156 fps
+[Sat Sep 19 22:18:28 2020] INFO: Keys: tab = toggle mouse, AWSD = move camera, Shift = fast mode, Esc = quit.
+38 frames in 1.0206 seconds = 37.231 fps
+[Sat Sep 19 22:18:29 2020] INFO: Keys: tab = toggle mouse, AWSD = move camera, Shift = fast mode, Esc = quit.
+44 frames in 1.0072 seconds = 43.683 fps
+[Sat Sep 19 22:18:30 2020] INFO: Keys: tab = toggle mouse, AWSD = move camera, Shift = fast mode, Esc = quit.
+57 frames in 1.0168 seconds = 56.056 fps
+[Sat Sep 19 22:18:31 2020] INFO: Keys: tab = toggle mouse, AWSD = move camera, Shift = fast mode, Esc = quit.
+68 frames in 1.0077 seconds = 67.477 fps
+[Sat Sep 19 22:18:32 2020] INFO: Keys: tab = toggle mouse, AWSD = move camera, Shift = fast mode, Esc = quit.
+52 frames in 1.0342 seconds = 50.279 fps
+[Sat Sep 19 22:18:33 2020] INFO: Keys: tab = toggle mouse, AWSD = move camera, Shift = fast mode, Esc = quit.
+34 frames in 1.003 seconds = 33.898 fps
+[Sat Sep 19 22:18:34 2020] INFO: Keys: tab = toggle mouse, AWSD = move camera, Shift = fast mode, Esc = quit.
+78 frames in 1.0091 seconds = 77.294 fps
+[Sat Sep 19 22:18:35 2020] INFO: Keys: tab = toggle mouse, AWSD = move camera, Shift = fast mode, Esc = quit.
+69 frames in 1.0102 seconds = 68.298 fps
+[Sat Sep 19 22:18:36 2020] INFO: Keys: tab = toggle mouse, AWSD = move camera, Shift = fast mode, Esc = quit.
+43 frames in 1.0106 seconds = 42.548 fps
+[Sat Sep 19 22:18:37 2020] INFO: Keys: tab = toggle mouse, AWSD = move camera, Shift = fast mode, Esc = quit.
+50 frames in 1.0237 seconds = 48.840 fps
+[Sat Sep 19 22:18:38 2020] INFO: Keys: tab = toggle mouse, AWSD = move camera, Shift = fast mode, Esc = quit.
+53 frames in 1.0021 seconds = 52.885 fps
+[Sat Sep 19 22:18:39 2020] INFO: Keys: tab = toggle mouse, AWSD = move camera, Shift = fast mode, Esc = quit.
+50 frames in 1.0105 seconds = 49.475 fps
+[Sat Sep 19 22:18:40 2020] INFO: Keys: tab = toggle mouse, AWSD = move camera, Shift = fast mode, Esc = quit.
+56 frames in 1.0034 seconds = 55.805 fps
+[Sat Sep 19 22:18:41 2020] INFO: Keys: tab = toggle mouse, AWSD = move camera, Shift = fast mode, Esc = quit.
+54 frames in 1.0112 seconds = 53.399 fps
+[Sat Sep 19 22:18:42 2020] INFO: Keys: tab = toggle mouse, AWSD = move camera, Shift = fast mode, Esc = quit.
+46 frames in 1.0098 seconds = 45.549 fps
+[Sat Sep 19 22:18:43 2020] INFO: Keys: tab = toggle mouse, AWSD = move camera, Shift = fast mode, Esc = quit.
+40 frames in 1.0002 seconds = 39.989 fps

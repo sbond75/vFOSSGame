@@ -1,0 +1,58 @@
+[
+    {
+        "arguments": [
+            "/Library/Developer/CommandLineTools/usr/bin/c++",
+            "-c",
+            "-DURHO3D_STATIC_DEFINE",
+            "-I/Volumes/MyTestVolume/Projects/repos/Urho3D/include",
+            "-isysroot",
+            "/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk",
+            "-o",
+            "CMakeFiles/cmTC_da7fb.dir/CheckUrhoLibrary.cpp.o",
+            "../../CMake/Modules/CheckUrhoLibrary.cpp"
+        ],
+        "directory": "/Volumes/MyTestVolume/Projects/vFOSSGame/CppTest/CMakeFiles/CMakeTmp",
+        "file": "../../CMake/Modules/CheckUrhoLibrary.cpp"
+    },
+    {
+        "arguments": [
+            "/Library/Developer/CommandLineTools/usr/bin/c++",
+            "-c",
+            "-DURHO3D_ANGELSCRIPT",
+            "-DURHO3D_IK",
+            "-DURHO3D_LOGGING",
+            "-DURHO3D_LUA",
+            "-DURHO3D_NAVIGATION",
+            "-DURHO3D_NETWORK",
+            "-DURHO3D_PHYSICS",
+            "-DURHO3D_PROFILING",
+            "-DURHO3D_STATIC_DEFINE",
+            "-DURHO3D_THREADING",
+            "-DURHO3D_URHO2D",
+            "-DURHO3D_WEBP",
+            "-I/Volumes/MyTestVolume/Projects/repos/Urho3D/include",
+            "-I/Volumes/MyTestVolume/Projects/repos/Urho3D/include/Urho3D/ThirdParty",
+            "-I/Volumes/MyTestVolume/Projects/repos/Urho3D/include/Urho3D/ThirdParty/Bullet",
+            "-I/Volumes/MyTestVolume/Projects/repos/Urho3D/include/Urho3D/ThirdParty/Lua",
+            "-mtune=generic",
+            "-Wno-invalid-offsetof",
+            "-march=native",
+            "-msse3",
+            "-pthread",
+            "-Qunused-arguments",
+            "-Wno-argument-outside-range",
+            "-O3",
+            "-DNDEBUG",
+            "-isysroot",
+            "/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk",
+            "-std=c++11",
+            "-stdlib=libc++",
+            "-std=c++11",
+            "-o",
+            "CMakeFiles/SampleProject.dir/main.cpp.o",
+            "main.cpp"
+        ],
+        "directory": "/Volumes/MyTestVolume/Projects/vFOSSGame/CppTest",
+        "file": "main.cpp"
+    }
+]

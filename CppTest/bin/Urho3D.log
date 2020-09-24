@@ -1,0 +1,3 @@
+[Fri Sep 18 19:43:40 2020] INFO: Opened log file Urho3D.log
+[Fri Sep 18 19:43:40 2020] INFO: Created 1 worker thread
+[Fri Sep 18 19:43:40 2020] ERROR: Failed to add resource path 'Data', check the documentation on how to set the 'resource prefix path'
